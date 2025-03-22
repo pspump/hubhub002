@@ -1,1 +1,1 @@
-throw new Extention("ddddd")
+throw new Extention("้sleep")
